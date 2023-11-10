@@ -1,0 +1,27 @@
+.photo_top {
+    width: 100%;
+}
+.photo_top img {
+    width: 100%;
+}
+main {
+    width: 70%;
+    margin: auto;
+}
+h1 {
+    font-family: 'Comfortaa';
+    text-align: center;
+}
+p {
+    font-family: 'Play';
+    text-align: justify;
+}
+.photo_line {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.photo_line img {
+    width: 31%;
+    border-radius: 10px;
+}
